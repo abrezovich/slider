@@ -9,7 +9,7 @@ import Link from './Link';
 	align-items: center;
 	padding: 0;
 	height: 49px;
- `
+`
 
 class Header extends React.Component {
 	render(){
